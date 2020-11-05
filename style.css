@@ -1,3 +1,7 @@
+*{
+  align-content: center;
+}
+
 head{
   text-align: center;
 }
