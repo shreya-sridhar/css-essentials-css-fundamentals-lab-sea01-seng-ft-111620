@@ -13,6 +13,11 @@ a{
   padding: 10px;
   background-color: grey;
 }
+figcaption{
+  text-align: center;
+  width:960px;
+}
+
 
 #featured-property p{
   text-align: center;
